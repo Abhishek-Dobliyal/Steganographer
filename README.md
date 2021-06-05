@@ -29,6 +29,10 @@ samples, guidance on mobile development, and a full API reference.
 
 - Open up Terminal/CMD and type in:
 ```bash
+flutter doctor
+```
+This should result in the following output on your Terminal/CMD window
+```bash
 [✓] Flutter (Channel stable, 2.2.1, on macOS 11.4 20F71 darwin-x64, locale
     en-GB)
 [✓] Android toolchain - develop for Android devices (Android SDK version
