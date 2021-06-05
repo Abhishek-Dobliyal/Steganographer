@@ -52,10 +52,5 @@ def decrypt():
     print(decrypted_msg)
     return jsonify({'decrypted_msg': decrypted_msg})
 
-@app.route('/test/<string:myname>', methods=['GET', 'POST'])
-def test(myname):
-    return f'TESTING {myname}'
-
-
 if __name__ == '__main__':
     app.run(debug=True, host="0.0.0.0")
