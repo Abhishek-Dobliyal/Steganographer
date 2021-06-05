@@ -67,7 +67,7 @@ flutter run
 - The above commands will install all the dependencies required by the app and Install the app on emulator/physical device. (whichever is available)
 
 - Now navigate to the 'backend' directory and type in:
--
+
 ```bash
 pip install -r requirements.txt
 ```
