@@ -2,7 +2,7 @@
 
 A responsive and material design inspired mobile app to implements Steganography.
 
-![](steganographer_demo.gif)
+![](stegnographer_demo.gif)
 
 ## Getting Started
 
