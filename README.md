@@ -2,6 +2,8 @@
 
 A responsive and material design inspired mobile app to implements Steganography.
 
+![](steganographer_demo.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
