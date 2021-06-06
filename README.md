@@ -1,6 +1,6 @@
 ## Stegnographer
 
-A responsive and material design inspired mobile app to implements Steganography.
+A responsive and material design inspired mobile app to implement Steganography.
 
 ![](stegnographer_demo.gif)
 
